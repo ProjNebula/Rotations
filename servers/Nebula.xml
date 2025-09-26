@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rotations>
+  <rotation max="200" min="0" name="Default">
+    <map>Castle Adventure II</map>
+    <map>Rendezvous</map>
+    <map>Gladiator</map>
+    <map>Senex 1</map>
+    <map>Frostbite</map>
+    <map>Teres</map>
+    <map>Zalidor</map>
+    <map>Decay</map>
+    <map>Ternio</map>
+    <map>Justice 1</map>
+    <map>Venomous TDM</map>
+    <map>Rendezvous 2</map>
+    <map>Halcyon</map>
+    <map>Senex 2</map>
+    <map>Unix</map>
+    <map>Titans</map>
+  </rotation>
+</rotations>
