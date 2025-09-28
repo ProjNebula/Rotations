@@ -6,6 +6,7 @@
     <map>Gladiator</map>
     <map>Senex 1</map>
     <map>Frostbite</map>
+    <map>Palm Rust</map>
     <map>Teres</map>
     <map>Zalidor</map>
     <map>Decay</map>
@@ -17,5 +18,7 @@
     <map>Senex 2</map>
     <map>Unix</map>
     <map>Titans</map>
+    <map>Quintus</map>
+    <map>Rendezvous 3</map>
   </rotation>
 </rotations>
