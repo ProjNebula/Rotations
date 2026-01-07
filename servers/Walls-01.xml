@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rotations max="200" min="0" name="Default">
+	<map>The Walls: Incandescent</map>
+    <map>The Walls: Snail Tale</map>
+    <map>The Walls: Village</map>
+    <map>The Walls: Mystery</map>
+    <map>Mini Walls: Moonstrike</map>
+    <map>Tetris Jungle</map>
+</rotations>
