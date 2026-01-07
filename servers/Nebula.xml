@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rotations>
-  <rotation max="200" min="0" name="Default">
-    <map>Castle Adventure II</map>
-    <map>Rendezvous</map>
-    <map>Gladiator</map>
-    <map>Senex 1</map>
-    <map>Frostbite</map>
-    <map>Luar</map>
-    <map>Teres</map>
-    <map>Zalidor</map>
-    <map>Decay</map>
-    <map>Ternio</map>
-    <map>Justice 1</map>
-    <map>Venomous TDM</map>
-    <map>Rendezvous 2</map>
-    <map>Crusade</map>
-    <map>Halcyon</map>
-    <map>Senex 2</map>
-    <map>Unix</map>
-    <map>Titans</map>
-    <map>Quintus</map>
-    <map>Rendezvous 3</map>
-  </rotation>
+<rotations max="200" min="0" name="Default">  <!-- 16 DTM, 3 TDM, 4 CTW, 1 CTH -->
+  <map>Castle Adventure II</map> <!-- DTM -->
+  <map>Rendezvous</map> <!-- DTM -->
+  <map>Gladiator</map> <!-- TDM -->
+  <map>Senex I</map> <!-- DTM -->
+  <map>Frostbite</map> <!-- DTM -->
+  <map>Teres</map> <!-- DTM -->
+  <map>Arizona</map> <!-- CTW -->
+  <map>Luar</map> <!-- DTM -->
+  <map>Palm Rust</map> <!-- DTM -->
+  <map>CherrylandMC</map> <!-- DTM -->
+  <map>Candyland</map> <!-- DTM -->
+  <map>Ternio CTW</map> <!-- CTW -->
+  <map>Sector Six</map> <!-- DTM -->
+  <map>Venomous TDM</map> <!-- TDM -->
+  <map>Halcyon</map> <!-- DTM -->
+  <map>Senex II</map> <!-- DTM -->
+  <map>Lyze</map> <!-- CTW -->
+  <map>Quintus</map> <!-- DTM -->
+  <map>Clay Wars</map> <!-- DTM -->
+  <map>Rapture II</map> <!-- TDM -->
+  <map>Deadlock</map> <!-- CTW -->
+  <map>Control the Hill: Coniculum</map> <!-- CTH -->
+  <map>Fissura</map> <!-- DTM -->
+  <map>Bleened Rings</map> <!-- DTM -->
 </rotations>
